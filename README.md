@@ -33,8 +33,9 @@ skills as a programmer.
 
 ### :mailbox: Reach Out to me: 
 <a href="https://www.linkedin.com/in/samiksha-agrawal-53859b195/">
-<img width="60px" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<img width="60px" src="https://img.shields.io/badge/-Samiksha99-blue?style=social-media-flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samiksha-agrawal-53859b195/" /> 
 </a>
+
 <a href ="https://www.facebook.com/samiksha.agrawal.378/">
-<img width="60px" src="https://i.pinimg.com/originals/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7.png" />
+<img width="60px" src="https://img.shields.io/badge/-Samiksha99-blue?style=social-media-flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/samiksha.agrawal.378/" />
   </a>
