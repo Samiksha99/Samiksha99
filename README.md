@@ -1,10 +1,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 # I am Samiksha Agrawal :sparkles:
 
-I am an interested and enthusiast Software Developer, with a strong foundation in math,   Programming, and Logic. Seeking to leverage solid development
+I am an enthusiastic Software Developer, with a strong foundation in math,   Programming, and Logic. Seeking to leverage solid development
 skills as a programmer.
 
-## Currently I'm upto :point_down:
+## Currently I'm up to :point_down:
 - 🔭 I’m currently working as an **App Developer** at **[AMURoboclub](https://amuroboclub.in/)**.
 - 🌱 I’m currently working to get better at **Competitive Programming** and **App Developement**.
   - 6 :star: on Hackerrank
